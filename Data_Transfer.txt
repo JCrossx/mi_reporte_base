@@ -1,5 +1,6 @@
 --Reglas de validacion
 Regla_1: validacion de 8 caracteres para DNI
 Regla_2: validacion de 9 digitos para numeros celulares
-Regla_3: validacion de existencia de correo e. in ('@','.com)
+Regla_3: validacion de existencia de correo e. in ('@','.com.pe')
+Regla_4: ---
 
